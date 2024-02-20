@@ -1,0 +1,14 @@
+C:\Users\max.johansson3\Desktop\Programmering\Kapitel 6\Anteckningsbok\bin\Debug\net7.0\Anteckningsbok.exe
+C:\Users\max.johansson3\Desktop\Programmering\Kapitel 6\Anteckningsbok\bin\Debug\net7.0\Anteckningsbok.deps.json
+C:\Users\max.johansson3\Desktop\Programmering\Kapitel 6\Anteckningsbok\bin\Debug\net7.0\Anteckningsbok.runtimeconfig.json
+C:\Users\max.johansson3\Desktop\Programmering\Kapitel 6\Anteckningsbok\bin\Debug\net7.0\Anteckningsbok.dll
+C:\Users\max.johansson3\Desktop\Programmering\Kapitel 6\Anteckningsbok\bin\Debug\net7.0\Anteckningsbok.pdb
+C:\Users\max.johansson3\Desktop\Programmering\Kapitel 6\Anteckningsbok\obj\Debug\net7.0\Anteckningsbok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\max.johansson3\Desktop\Programmering\Kapitel 6\Anteckningsbok\obj\Debug\net7.0\Anteckningsbok.AssemblyInfoInputs.cache
+C:\Users\max.johansson3\Desktop\Programmering\Kapitel 6\Anteckningsbok\obj\Debug\net7.0\Anteckningsbok.AssemblyInfo.cs
+C:\Users\max.johansson3\Desktop\Programmering\Kapitel 6\Anteckningsbok\obj\Debug\net7.0\Anteckningsbok.csproj.CoreCompileInputs.cache
+C:\Users\max.johansson3\Desktop\Programmering\Kapitel 6\Anteckningsbok\obj\Debug\net7.0\Anteckningsbok.dll
+C:\Users\max.johansson3\Desktop\Programmering\Kapitel 6\Anteckningsbok\obj\Debug\net7.0\refint\Anteckningsbok.dll
+C:\Users\max.johansson3\Desktop\Programmering\Kapitel 6\Anteckningsbok\obj\Debug\net7.0\Anteckningsbok.pdb
+C:\Users\max.johansson3\Desktop\Programmering\Kapitel 6\Anteckningsbok\obj\Debug\net7.0\Anteckningsbok.genruntimeconfig.cache
+C:\Users\max.johansson3\Desktop\Programmering\Kapitel 6\Anteckningsbok\obj\Debug\net7.0\ref\Anteckningsbok.dll
