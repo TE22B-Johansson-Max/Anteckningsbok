@@ -15,6 +15,10 @@ while (true)
             break;
 
         case "3":
+            RaderaAnteckning();
+            break;
+
+        case "4":
             Console.WriteLine("Godmorgon Godnatt");
             return;
 
@@ -29,7 +33,8 @@ static void VisaMeny() {
     Console.WriteLine("Dessa alternativ finns");
     Console.WriteLine("1. Spara Anteckningar");
     Console.WriteLine("2. Läs upp dina anteckningar");
-    Console.WriteLine("3. Avsluta programmet");
+    Console.WriteLine("3. Radera Anteckningsbok");
+    Console.WriteLine("4. Avsluta programmet");
     Console.Write("Vad vill du göra? Svara endast med siffran för varje alternativ: ");
 }
 
@@ -47,6 +52,15 @@ static void SparaAnteckning() {
     File.AppendAllText("Anteckningstest.txt", " " + anteckning);
 }
 
+
+static void RaderaAnteckning() {
+    File.Delete("Anteckningstest.txt");
+    Console.WriteLine("Din anteckningsbok har tagits bort!");
+}
+
+static void TömAnteckning()  {
+    File.WriteAllText("Anteckningstest.txt", String.Empty);
+}
 // Ville testa Appendtext ifall det skulle lägga till extra text istället för att skriva över det -
 // - som redan fanns i textfilen som WriteAllText gör, men det öppnade bara nya tomma textfiler med orden jag skrev.
 
